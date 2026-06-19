@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bar hip
+  m_Shader: {fileID: 4800000, guid: d8387043ddb50884781a54fd7717b05b, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _PixelMaskTex:
+        m_Texture: {fileID: 2800000, guid: b1d7fd702101d0a43a655bfc6848c9fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BackgroundBlend: 0
+    - _BackgroundDistort: 0.0405
+    - _BarHeight: 0.098
+    - _Brightness: 1.5
+    - _CullMode: 1
+    - _DarkCrush: 0.32
+    - _DistanceFadeEnabled: 1
+    - _EdgeFade: 0.057
+    - _FadeCurve: 2
+    - _FadeFarDistance: 10
+    - _FadeNearDistance: 1
+    - _HorizontalTear: 0.075
+    - _InvertDistanceFade: 0
+    - _JitterStrength: 0.045
+    - _LocalVerticalTiling: 10
+    - _Opacity: 1
+    - _PixelMaskStrength: 1
+    - _PixelMaskToggle: 1
+    - _RGBSplit: 0.022
+    - _ScanlineCount: 566
+    - _ScanlineStrength: 0.83
+    - _ScreenHorizontalTiling: 63
+    - _ScreenPadding: 0.066
+    - _SidewaysSpeed: 5
+    - _StaticSpeed: 24
+    - _StencilRef: 47
+    - _TrackingBreakAmount: 0.45
+    - _TrackingBreakFrequency: 24
+    - _TrackingBreakSpeed: 1.8
+    - _TrackingBreakThickness: 0.012
+    - _UseStencilDebugNote: 1
+    - _VHSWobble: 0.025
+    - _VerticalOffset: 0
+    m_Colors:
+    - _PixelMaskTiling: {r: 640, g: 570, b: 0, a: 0}
+    - _Tint: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
